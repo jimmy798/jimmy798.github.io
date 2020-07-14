@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>first blog</title>
+      <link href="/2020/07/14/first-blog/"/>
+      <url>/2020/07/14/first-blog/</url>
+      
+        <content type="html"><![CDATA[<p>这是我的第一篇BLOG。</p><p>哈哈，终于搭建成功了。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> first </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2020/07/13/hello-world/"/>
       <url>/2020/07/13/hello-world/</url>
