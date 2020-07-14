@@ -1,45 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>蜗牛的风车</title>
-  
-  <subtitle>一只蜗牛的疯言疯语</subtitle>
+  <title>奔跑的蜗牛</title>
+  <icon>https://www.gravatar.com/avatar/4fbba942be3355c3de286242bdb1458b</icon>
+  <subtitle>一只蜗牛的思考</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-14T07:39:13.477Z</updated>
+  <updated>2020-07-14T10:10:36.900Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>风车</name>
-    
+    <name>奔跑的蜗牛</name>
+    <email>rushsnail@gmail.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>first blog</title>
-    <link href="http://yoursite.com/2020/07/14/first-blog/"/>
-    <id>http://yoursite.com/2020/07/14/first-blog/</id>
-    <published>2020-07-14T03:29:26.000Z</published>
-    <updated>2020-07-14T07:39:13.477Z</updated>
+    <title>2020年第一篇BLOG</title>
+    <link href="http://yoursite.com/2020/07/14/first-post/"/>
+    <id>http://yoursite.com/2020/07/14/first-post/</id>
+    <published>2020-07-14T10:06:58.000Z</published>
+    <updated>2020-07-14T10:10:36.900Z</updated>
     
-    <content type="html"><![CDATA[<p><strong><em>这是我的第一篇BLOG。</em></strong></p><p><img src="/images/1594711464118.jpg" alt=""></p><p>哈哈，终于搭建成功了。</p>]]></content>
+    <content type="html"><![CDATA[<p>折腾两天，终于在Github上搭建了自己的BLOG。</p><p>2020年，始为记。</p><a id="more"></a><p>这是更多的内容。</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;&lt;strong&gt;&lt;em&gt;这是我的第一篇BLOG。&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/1594711464118.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;哈哈，终于搭建成功了。&lt;/p&gt;
-
-      
+      &lt;p&gt;折腾两天，终于在Github上搭建了自己的BLOG。&lt;/p&gt;
+&lt;p&gt;2020年，始为记。&lt;/p&gt;
     
     </summary>
     
     
+      <category term="技术笔记" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
     
-      <category term="first" scheme="http://yoursite.com/tags/first/"/>
+    
+      <category term="技术" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="BLOG" scheme="http://yoursite.com/tags/BLOG/"/>
+    
+      <category term="Mac" scheme="http://yoursite.com/tags/Mac/"/>
     
   </entry>
   

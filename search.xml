@@ -4,17 +4,27 @@
   
     
     <entry>
-      <title>first blog</title>
-      <link href="/2020/07/14/first-blog/"/>
-      <url>/2020/07/14/first-blog/</url>
+      <title>2020年第一篇BLOG</title>
+      <link href="/2020/07/14/first-post/"/>
+      <url>/2020/07/14/first-post/</url>
       
-        <content type="html"><![CDATA[<p><strong><em>这是我的第一篇BLOG。</em></strong></p><p><img src="/images/1594711464118.jpg" alt=""></p><p>哈哈，终于搭建成功了。</p>]]></content>
+        <content type="html"><![CDATA[<p>折腾两天，终于在Github上搭建了自己的BLOG。</p><p>2020年，始为记。</p><a id="more"></a><p>这是更多的内容。</p>]]></content>
       
+      
+      <categories>
+          
+          <category> 技术笔记 </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> first </tag>
+            <tag> 技术 </tag>
+            
+            <tag> BLOG </tag>
+            
+            <tag> Mac </tag>
             
         </tags>
       
